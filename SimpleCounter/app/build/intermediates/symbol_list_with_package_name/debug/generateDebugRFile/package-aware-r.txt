@@ -1,0 +1,19 @@
+com.example.simplecounter
+color black
+color white
+drawable background
+drawable click
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id main
+id textView
+id upgradeBtn
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_SimpleCounter
+style Theme_SimpleCounter
+xml backup_rules
+xml data_extraction_rules

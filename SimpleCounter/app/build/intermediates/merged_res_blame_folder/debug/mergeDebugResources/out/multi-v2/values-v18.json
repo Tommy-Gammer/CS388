@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.simplecounter.app-mergeDebugResources-33:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tgmon\\.gradle\\caches\\9.1.0\\transforms\\7b896d8abaffc69d6c13f034c2c80a7f\\workspace\\transformed\\appcompat-1.7.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
